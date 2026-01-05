@@ -1,2 +1,2 @@
 # Python-for-webscraping-Reddit
-Python codes for wabescraping reddit and visualizing excel data.
+Python codes for wabescraping reddit, playstore and Appstore and visualizing excel data.
